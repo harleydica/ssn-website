@@ -1,0 +1,16 @@
+[
+  {
+    "name": "registrasi",
+    "path": "/registrasi",
+    "component": "/Users/macbookair/WORK/SSN/WEB/WEB/pages/registrasi.vue",
+    "chunkName": "pages/registrasi",
+    "_name": "_51024a14"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/macbookair/WORK/SSN/WEB/WEB/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1c4513e7"
+  }
+]
